@@ -1,3 +1,8 @@
+# TO RUN THE PROJECT
+
+npm start
+
+
 # RewardPay Coding Challenge
 
 ## Overview
